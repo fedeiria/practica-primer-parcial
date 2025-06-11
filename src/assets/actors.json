@@ -1,0 +1,64 @@
+{
+    "actor": [
+        {
+            "id": 1,
+            "name": "Antonio Banderas",
+            "age": 60,
+            "movies": "Puss in Boots: The Last Wish"
+        },
+        {
+            "id": 2,
+            "name": "Sam Worthington",
+            "age": 44,
+            "movies": "Avatar: The Way of Water"
+        },
+        {
+            "id": 3,
+            "name": "Allison Williams",
+            "age": 42,
+            "movies": "M3GAN"
+        },
+        {
+            "id": 4,
+            "name": "Ine Marie Wilmann",
+            "age": 48,
+            "movies": "Troll"
+        },
+        {
+            "id": 5,
+            "name": "Dwayne Johnson",
+            "age": 51,
+            "movies": "Black Adam"
+        },
+        {
+            "id": 6,
+            "name": "Sam Worthington",
+            "age": 44,
+            "movies": "Avatar"
+        },
+        {
+            "id": 7,
+            "name": "Letitia Wright",
+            "age": 39,
+            "movies": "Black Panther: Wakanda Forever"
+        },
+        {
+            "id": 8,
+            "name": "Jake Gyllenhaal",
+            "age": 42,
+            "movies": "Strange World"
+        },
+        {
+            "id": 9,
+            "name": "Viola davis",
+            "age": 59,
+            "movies": "The Woman King"
+        },
+        {
+            "id": 10,
+            "name": "Alisha Weir",
+            "age": 15,
+            "movies": "Roald Dahl's Matilda the Musical"
+        }
+    ]
+}

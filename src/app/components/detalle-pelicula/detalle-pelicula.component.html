@@ -1,0 +1,20 @@
+@if (this.showComponent) {
+    <div class="container">
+        <div class="card">
+            <img src="{{ this.data.fotoPelicula }}" class="card-img-top" alt="poster">
+            <div class="card-body">
+                <h5 class="card-title">{{ this.data.nombre }}</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">Estreno: {{ this.data.fechaEstreno }}</li>
+                <li class="list-group-item">Genero: {{ this.data.tipo }}</li>
+                <li class="list-group-item">Espectadores: {{ this.data.espectadores }}</li>
+            </ul>
+            <div class="card-body">
+                <a href="#" class="card-link">Trailer</a>
+                <a href="#" class="card-link">Ver ahora</a>
+            </div>
+        </div>
+    </div>
+}
